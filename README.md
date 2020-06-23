@@ -1,2 +1,2 @@
 # The-Big-Redirect-Machine
-Redirects you to a new page with random video. Uses html, css and javascript
+This was my first ever website built. This program redirects you to a random YouTube video. It was built in html, css and javascript.
